@@ -1,4 +1,4 @@
-# zenhub-to-rag 🎯📚 
+# zenhub-to-rag 🎯📚 (work-in-progress!!)
 
 Convert Zenhub workspaces into RAG-optimized content for AI applications. This tool helps bridge the gap between project management and AI by making your Zenhub content queryable through RAG (Retrieval-Augmented Generation).
 
